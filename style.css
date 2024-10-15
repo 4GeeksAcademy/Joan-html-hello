@@ -1,0 +1,51 @@
+body{
+	background: black;
+	margin:0;
+}
+.post{
+	background:white;
+    height: 630px;
+    width:450px;
+    margin: 200px auto;
+}
+
+.headerPost {
+    display:flex;
+    padding:10px;
+}
+.headerPost p{
+    margin:0;
+}
+.htmlIcon{
+    font-size: 31px;
+    padding:5px;
+}
+.headerText{
+    margin: 5px;    
+}
+.threeDots{
+    padding-left: 305px;
+    font-size: 30px;
+    margin: 5px;   
+}
+.imgPhoto img{
+    width:450px;
+    height: 350px;
+}
+.icons {
+    display:flex;
+    margin:10px;
+}
+.threeIcons {
+    font-size:35px;
+    margin: 5px;
+}
+.bookmarkIcon{
+    padding-left: 250px;
+    font-size:35px;
+    margin:5px;
+}
+.paragraphs {
+    padding:flex;
+    margin:15px;
+}
